@@ -1,3 +1,22 @@
+# ⚠️ Security Disclaimer
+
+**This application is intentionally insecure and is provided solely for educational and research purposes.**
+
+It is designed to demonstrate real-world security flaws in web applications to help developers, students, and security professionals recognize, exploit, and remediate these vulnerabilities in a controlled, ethical manner.
+
+## 🚫 Warning
+
+- Do **not** deploy this application in production.
+- Do **not** use this application to target any system without **explicit, documented authorization**.
+- This code is provided **"as is"**, without warranty or guarantee of any kind.
+- The authors, contributors, and maintainers **assume no liability** for any damages arising from the use or misuse of this project.
+
+By accessing, cloning, using, or modifying this repository, you acknowledge that you have read, understood, and agreed to this disclaimer and the terms of the license.
+
+For additional information about ethical usage and use cases, see [`USE_CASES.md`](./USE_CASES.md).
+
+
+
 # AWS Security Portfolio
 
 A professional portfolio website built with React + Vite, designed for AWS security specialists. Features a clean, responsive design optimized for deployment to AWS S3 as a static website.
