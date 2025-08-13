@@ -1,10 +1,10 @@
 function Projects() {
   const projects = [
     {
-      title: 'AWS Security Hub Automation',
-      description: 'Automated security findings remediation using Lambda functions and EventBridge. Reduces manual security tasks by 80% and ensures rapid response to critical findings.',
+      title: 'GhostCam',
+      description: 'GhostCam lets you capture and share spooky ghost sightings through a fun, Halloween-themed photo gallery. It’s perfect for ghost hunting enthusiasts or anyone looking to add a little paranormal excitement to their day.',
       viewLink: 'https://your-project-demo.com',
-      sourceLink: 'https://github.com/yourusername/security-hub-automation'
+      sourceLink: 'https://github.com/james-cole2015/portfolio-ghost-cam'
     },
     {
       title: 'Multi-Account IAM Governance',
